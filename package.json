@@ -1,0 +1,15 @@
+{
+  "main": "index.js",
+  "name": "",
+  "license": "",
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "babel-plugin-jsx-if": "^1.0.2",
+    "color-js": "^1.0.3",
+    "gloss": "^5.0.5",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-hot-loader": "^3.0.0-beta.6"
+  }
+}

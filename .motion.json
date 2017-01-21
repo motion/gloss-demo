@@ -1,0 +1,19 @@
+{
+  "babel": {
+    "plugins": [
+      "react-hot-loader/babel",
+      "babel-plugin-jsx-if",
+      ["gloss/transform", {
+        "decoratorName": "view"
+      }]
+    ],
+    "presets": [
+      "babel-preset-motion"
+    ]
+  },
+  "pathType": "filePath",
+  "webServerPort": 8886,
+  "saveNpmModules": true,
+  "bundleDirectory": ".",
+  "publicDirectory": "./public"
+}
